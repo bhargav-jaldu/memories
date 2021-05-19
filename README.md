@@ -2,7 +2,7 @@
 
 #PHP Project
 
-# To Test this app you need to install XAMMP or WAMP server
+ To Test this app you need to install XAMMP or WAMP server
 
 LINK: https://theocratic-modifica.000webhostapp.com/
 
