@@ -17,3 +17,9 @@ The App is called Memories and it is a simple social media app that allows users
 
 # Create a memory
 ![image](https://user-images.githubusercontent.com/78521151/118959361-e215d980-b97f-11eb-85a8-058284b9649b.png)
+
+# Technologis Used:
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. PHP
