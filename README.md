@@ -23,3 +23,4 @@ The App is called Memories and it is a simple social media app that allows users
 2. CSS
 3. JAVASCRIPT
 4. PHP
+5. MYSQL
