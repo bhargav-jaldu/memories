@@ -1,12 +1,12 @@
 # memories
 
-#PHP Project
+# PHP Project
 
  To Test this app you need to install XAMMP or WAMP server
 
 LINK: https://theocratic-modifica.000webhostapp.com/
 
-The App is called Memories and it is a simple social media app that allows users to post intersting events that are happend in their lives 
+The App is called Memories and it is a simple social media app that allows users to post, like intersting events that are happend in their lives 
 
 # Login Page:
 ![image](https://user-images.githubusercontent.com/78521151/118959249-c6aace80-b97f-11eb-8781-4c3b8903c31d.png)
